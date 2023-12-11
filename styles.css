@@ -272,3 +272,8 @@
   .myResume{
     color: var(--secondary-text-color);
   }
+
+  .myIcons{
+    height: 20px;
+    width: 20px;
+  }
